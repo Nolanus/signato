@@ -4,6 +4,8 @@ _Semi-automated apple mail HTML signature installer_
 
 Easily install HTML signatures in Apple Mail without fiddling around in hidden folders 😍
 
+> **New** Check out the GUI application of signato: [siganto app](https://github.com/Nolanus/signato-app) is even better
+
 ![Signato usage preview](preview.gif)
 
 ## Prerequisite
